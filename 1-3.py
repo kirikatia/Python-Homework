@@ -14,7 +14,7 @@ elif X <= -1 and Y >= 1:
     print ('плоскость №2')
 elif X <= -1 and Y <= -1:
     print ('лоскость №3')
-elif X >= 1 and Y <= -91:
+elif X >= 1 and Y <= -1:
     print ('плоскость №4')
 else:
     print ('неверное число')
